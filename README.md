@@ -44,6 +44,7 @@ Follow the steps below to get started with the app:
      php artisan serve
 
 🧑‍💻 Learn More
+
 [Laravel Documentation](https://laravel.com/docs)
 
 [PHP Documentation](https://www.php.net/docs.php)
