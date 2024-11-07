@@ -45,8 +45,8 @@ Follow the steps below to get started with the app:
 
 ## 🧑‍💻 Learn More
 
-[Laravel Documentation](https://laravel.com/docs)
-
-[PHP Documentation](https://www.php.net/docs.php)
-
-[Composer Documentation](https://getcomposer.org/doc/)
+   [Laravel Documentation](https://laravel.com/docs)
+   
+   [PHP Documentation](https://www.php.net/docs.php)
+   
+   [Composer Documentation](https://getcomposer.org/doc/)
