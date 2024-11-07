@@ -43,7 +43,7 @@ Follow the steps below to get started with the app:
      ```bash
      php artisan serve
 
-### 🧑‍💻 Learn More
+## 🧑‍💻 Learn More
 
 [Laravel Documentation](https://laravel.com/docs)
 
