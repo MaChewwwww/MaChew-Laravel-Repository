@@ -1,5 +1,7 @@
 <?php
 
+#latest update
+
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SectionController;
 use App\Http\Controllers\AuthController;
